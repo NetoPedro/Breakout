@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pedroneto/Desktop/Breakout/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d5900b3b1483b2fc0a5a58f73d6193f50085c549">
+        <dex dex="/Users/pedroneto/Desktop/Breakout/build/intermediates/pre-dexed/debug/unity-classes_122f6543675f72f109a9eca7daf4429a676e3b19.jar" />
+    </item>
+
+</items>
